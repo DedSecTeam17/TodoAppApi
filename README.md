@@ -5,6 +5,6 @@ https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgs
 
 ## Next steps...
 
-1) Rewrite this in TypeScript
+* Rewrite this in TypeScript
   * git URL: TBD
   

@@ -5,6 +5,6 @@ https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgs
 
 ## Next steps...
 
-* Rewrite this in TypeScript
-  * git URL: TBD
+* Rewrite this in TypeScript (DONE)
+  * git URL: https://github.com/holotrek/ts-node-rest-api
   
